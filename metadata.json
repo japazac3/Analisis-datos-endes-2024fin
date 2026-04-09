@@ -1,0 +1,5 @@
+{
+  "name": "ENDES 2024 Analytics",
+  "description": "Plataforma interactiva para el análisis de datos de la Encuesta ENDES 2024, con dashboards dinámicos y KPIs de salud.",
+  "requestFramePermissions": []
+}
